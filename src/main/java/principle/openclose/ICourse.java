@@ -1,4 +1,4 @@
-package openclose;
+package principle.openclose;
 
 /**
  * @Author God

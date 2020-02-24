@@ -1,4 +1,4 @@
-package dip;
+package principle.dip;
 
 /**
  * @Author God
