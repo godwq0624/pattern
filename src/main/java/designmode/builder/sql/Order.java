@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * sql排序组件
  *
- * @author Tom
+ * @author God
  */
 @Data
 public class Order {

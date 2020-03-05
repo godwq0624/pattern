@@ -3,9 +3,6 @@ package designmode.builder.sql;
 import javax.management.Query;
 import java.util.Arrays;
 
-/**
- * Created by Tom.
- */
 public class Test {
     public static void main(String[] args) {
         QueryRule queryRule = QueryRule.getInstance();
